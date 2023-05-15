@@ -1,4 +1,4 @@
-# Este es el readme del trabajo practico de Operaciones I
+# Trabajo Practico  Operaciones I
 
 Integrantes
 <ul>
