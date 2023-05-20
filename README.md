@@ -16,5 +16,4 @@ Integrantes
   <li>Mara Gil Cozzi</li>
   <li>Benjamin Chuquimango</li>
   <li>Emiliano Ogando</li>
-  <li>Nueva Integrante</li>
 </ul>
