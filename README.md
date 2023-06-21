@@ -78,10 +78,10 @@ $ docker compose down
 1. Dirijase a la siguiente [URL](http://localhost:9000/)
 2. En Email Address / Username ingrese: **admin@domain.com**
 3. En password ingrese: **admin**
-4. Para conectar con la base de datos Postgres selecciones **Add New Server**
+4. Para conectar con la base de datos Postgres seleccione **Add New Server**
 5. Complete el campo name con: **keycloak**
 6. Seleccione la segunda pestaña con la leyenda **Connection**
-7. Complete el campo Host name/address con el nombre del contenedor asignador por docker, en este caso: **operaciones-postgres-1** como se puede observar en el apartado anteterior luego de ejecutar el docker ps
+7. Complete el campo Host name/address con el nombre del contenedor asignado por docker, en este caso: **operaciones-postgres-1** como se puede observar en el apartado anterior luego de ejecutar el docker ps
 8. Complete el campo Maintenace database con: **keycloak**
 9. Complete el campo Username con: **keycloak**
 10. Complete el campo Password con: **password**
