@@ -70,8 +70,9 @@ $ docker compose down
 4. Ingrese como password: **admin**
 5. Para cambiar el Theme de keycloak. Dirijase a la opción **Realm settings**
 6. Seleccione la 4ta pestaña con la leyenda **Themes**
-7. Seleccione el theme **operaciones** para todas las opciones
+7. Seleccione el theme **operaciones** para la categoria **Login Theme**
 8. Haga click en **Save**
+9. Cierre la sesion y verifique el cambio de theme
 
 # Acceso a pgadmin
 
