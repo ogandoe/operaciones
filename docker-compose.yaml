@@ -18,7 +18,9 @@ services:
         condition: service_healthy
     networks:
       - keycloak_dev_network
-      
+    volumes:  
+      - ./themes:/opt/keycloak/themes
+
   postgres:
       image: postgres:15.3
       command: postgres -c 'max_connections=100'
